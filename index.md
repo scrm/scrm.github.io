@@ -21,8 +21,8 @@ simulate chromosome scale sequences with essentially correct genetic linkage.
 * __Source__: [scrm v{{ page.version }}](https://github.com/scrm/scrm/releases/download/v{{ page.version }}/scrm-src.tar.gz).
 * __R__: _scrm_ is available as [R package on CRAN](http://cran.r-project.org/web/packages/scrm)
   for all major platforms. Use `install.packages('scrm')` in R to install it.
-* __Linux__: Packages for [Debian, Fedora, openSUSE, CentOS, RHEL, Scientific Linux, Ubuntu](http://software.opensuse.org/download.html?project=home%3Apaulst&package=scrm)
-  and [Arch Linux](https://aur.archlinux.org/packages/scrm).
+* __Linux__: Starting from Ubuntu 16.04, `scrm` is available via `apt-get install scrm`.
+  There are also Packages for [Debian, Fedora, openSUSE, CentOS, RHEL, Scientific Linux](http://software.opensuse.org/download.html?project=home%3Apaulst&package=scrm).
   We also provide 
   [statically linked x64 binaries](https://github.com/scrm/scrm/releases/download/v{{ page.version }}/scrm-x64-static.tar.gz).
 * __Windows__ Binaries: 
