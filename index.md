@@ -2,7 +2,7 @@
 layout: page
 title: Next-Gen Coalescent Simulation
 tagline: 
-version: 1.7.3
+version: 1.7.4
 ---
 {% include JB/setup %}
 
